@@ -8,7 +8,7 @@ The goal of this project is to use JDBC to create a Booksdatabase, populate it, 
 - [ ] Compile demo data for tables
 - [ ] Created tables
 
-         - [ ] authors
+         - [x] authors
          - [ ] authorsISBN
          - [ ] titles
          - [ ] publishers
