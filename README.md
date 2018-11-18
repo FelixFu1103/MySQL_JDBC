@@ -1,5 +1,7 @@
 # MySQL_JDBC
 
+The goal of this project is to use JDBC to create a Booksdatabase, populate it, and then execute different SQL statements to query or manipulate the Booksdatabase.
+
 ## Overview
 * Create database
 * Compile demo data for tables
