@@ -8,10 +8,10 @@ The goal of this project is to use JDBC to create a Booksdatabase, populate it, 
 - [ ] Compile demo data for tables
 - [ ] Created tables
 
-         - authors
-         - authorsISBN
-         - titles
-         - publishers
+         - [ ] authors
+         - [ ] authorsISBN
+         - [ ] titles
+         - [ ] publishers
 
 - [ ] Initialize tables with demo data 
 - [ ] Code: Query 1 
