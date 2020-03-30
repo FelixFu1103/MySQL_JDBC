@@ -4,26 +4,26 @@ The goal of this project is to use JDBC to create a Booksdatabase, populate it, 
 
 ## Overview
 - [x] Initialize repo
-- [ ] Create database
-- [ ] Compile demo data for tables
-- [ ] Created tables
+- [x] Create database
+- [x] Compile demo data for tables
+- [x] Created tables
 
          - [ ] authors
          - [x] authorsISBN
          - [ ] titles
          - [ ] publishers
 
-- [ ] Initialize tables with demo data 
-- [ ] Code: Query 1 
-- [ ] Code: Query 2 
-- [ ] Code: Query 3 
-- [ ] Code: Query 4 
-- [ ] Code: Query 5 
-- [ ] Code: Query 6 
-- [ ] Code: Query 7 
-- [ ] Code: Query 8 
-- [ ] One/two page documentation of the implementation
-- [ ] Print out two copies of documentation and output
-- [ ] Prepare for Demo
-- [ ] Turn in during class Dec 5
+- [x] Initialize tables with demo data 
+- [x] Code: Query 1 
+- [x] Code: Query 2 
+- [x] Code: Query 3 
+- [x] Code: Query 4 
+- [x] Code: Query 5 
+- [x] Code: Query 6 
+- [x] Code: Query 7 
+- [x] Code: Query 8 
+- [x] One/two page documentation of the implementation
+- [x] Print out two copies of documentation and output
+- [x] Prepare for Demo
+- [x] Turn in during class Dec 5
 
